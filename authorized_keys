@@ -1,0 +1,18 @@
+#
+# WARNING: Automatically generated file
+# This file will be erased at every boot
+# This file was generated with '/usr/local/sbin/scw-fetch-ssh-keys'
+#
+# To add a new key, you can:
+#   -- Add keys on your Scaleway account https://cloud.scaleway.com/#/credentials
+#   -- Add keys using server tags - https://cloud.scaleway.com/#/servers/ab0c90e6-949c-4eac-8907-509dc6c1d27f
+#        - i.e: "AUTHORIZED_KEY=ssh-rsa_XXXXXXXXXXX AUTHORIZED_KEY=ssh-rsa_YYYYYYYYYYYYYYY"
+#        - Be sure to replace all spaces with underscores
+#        - $> sed 's/ /_/g' ~./ssh/id_rsa.pub
+#   -- Add the keys to '/root/.ssh/instance_keys' which will be imported
+#
+# And recreate your 'authorized_keys' file with the new keys:
+#   -- Run 'scw-fetch-ssh-keys --upgrade'
+#
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC/GUIPq9bCoOEfuwPaGpR6Cn7/v979htaisP63NIlGTU6d28+cP3UAY8F0HxZLML2rjri1TIkpLq5o1p7EITQNmOTvfvNQX9gXG0cVoMnhkHeBRUbHvDfK8v/ciBHUOBZU9pOc23gBUJQvQT8ZVdz8Eqf3hdebawK1WE0Xti6o6WtJ5KKqg3dsAmi1gbT1Xo9NDtXrkL5hg6fiq0teVar5+hgZA846Hrzma09H8JHrX97PJ3yniD/D9VwfUj/k+o3lH+IG7oUqu3YoH5rHG2Uj/dp5814Hx5Y5xx8L7HMvzBlvawSgC8/3dMP5A2VOfpZalIv9JeeTQ7Bs/xJxNLJb max@sqa.center
+# Below your custom ssh keys from '/root/.ssh/instance_keys'
